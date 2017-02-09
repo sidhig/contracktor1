@@ -1,0 +1,4 @@
+update 'tbl_device_det' SET area ='East',supervisior ='',DeviceName ='Lew',driver_name ='ggdfg',driver_phone ='456565',DeviceIMEI =123456789',OBDType ='OBDII',DevicePhone ='42355435',odometer ='5546456',tag ='3546',odometerCurrent ='5546456',isforwardtogpc ='0' where DeviceIMEI='123456789;
+
+
+update tbl_device_det set   area ='north',supervisor ='',DeviceName ='Lew',driver_name ='ggdfg',driver_phone ='123456',DeviceIMEI ='123456789',OBDType ='OBDII',DevicePhone ='42355435',odometer ='5546456',tag ='3546',odometerCurrent ='5546456'where DeviceIMEI='123456789'

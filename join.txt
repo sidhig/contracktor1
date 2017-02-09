@@ -1,0 +1,1 @@
+delete db_contracktor.tbl_device_det,db_admin.tbl_deviceinfo from `db_contracktor`.`tbl_device_det` INNER JOIN  `db_admin`.`tbl_deviceinfo` on  tbl_device_det.DeviceIMEI=tbl_deviceinfo.DeviceIMEI
